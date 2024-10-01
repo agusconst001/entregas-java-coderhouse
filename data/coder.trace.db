@@ -1,0 +1,20 @@
+2024-09-30 19:13:01.727301-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "ALUMNOS" no encontrada
+Table "ALUMNOS" not found; SQL statement:
+SELECT * FROM ALUMNOS [42102-224]
+2024-09-30 19:13:04.879166-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "ALUMNOS" no encontrada
+Table "ALUMNOS" not found; SQL statement:
+SELECT * FROM ALUMNOS [42102-224]
+2024-09-30 19:13:20.540170-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "ALUMNOS" no encontrada
+Table "ALUMNOS" not found; SQL statement:
+SELECT * FROM ALUMNOS [42102-224]
+2024-09-30 19:13:23.764931-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "ALUMNOS" no encontrada
+Table "ALUMNOS" not found; SQL statement:
+SELECT * FROM ALUMNOS [42102-224]
+2024-09-30 19:13:32.518293-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "ALUMNOS" no encontrada
+Table "ALUMNOS" not found; SQL statement:
+SELECT * FROM ALUMNOS [42102-224]
